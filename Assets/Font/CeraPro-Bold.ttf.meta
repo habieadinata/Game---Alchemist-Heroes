@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: cbeac6f6e22440d47895c7c0d43d64f8
+timeCreated: 1548162207
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cera Pro
+  fontNames:
+  - Cera Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 35daefb1ae4c55443bba53c186a56dc1, type: 3}
+  - {fileID: 12800000, guid: b7298234e0f52504a8976be38c5d5081, type: 3}
+  - {fileID: 12800000, guid: c7f6bd756261f4a429b5404e3b0a648b, type: 3}
+  - {fileID: 12800000, guid: cbc0412ac9f9e8a4a88acda06a34fd29, type: 3}
+  - {fileID: 12800000, guid: 50881dfc3053e2f41b4e184b48f4d208, type: 3}
+  - {fileID: 12800000, guid: 0aceb57dd4b95bf488a1153e959ff7ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
